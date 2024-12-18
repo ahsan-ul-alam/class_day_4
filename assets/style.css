@@ -1,0 +1,42 @@
+.mb-2 {
+    margin-bottom: 10px;
+}
+
+.btn {
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.success {
+    background: green;
+    color: white;
+}
+
+.warning {
+    background: red;
+    color: white;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.inline {
+    display: inline;
+}
+
+.myform {
+    background: steelblue;
+    padding: 10px;
+    border-radius: 10px;
+    width: fit-content;
+    margin: auto;
+}
+
+.d-block {
+    display: block;
+}
